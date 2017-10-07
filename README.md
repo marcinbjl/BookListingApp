@@ -7,5 +7,5 @@
 <br>
 
 ![](/screenshot2.png?raw=true "Screenshot") 
-<img src="/480xx.gif?raw=true" height="640">
+<img src="/480x.gif?raw=true" height="640">
 
