@@ -6,6 +6,6 @@
 <br>
 <br>
 
-![](/screenshot1.png?raw=true "Screenshot")
-![](/screenshot2.png?raw=true "Screenshot")
-![](/screenshot3.png?raw=true "Screenshot")
+![](/screenshot2.png?raw=true "Screenshot") 
+<img src="/480x.gif?raw=true" height="640">
+
